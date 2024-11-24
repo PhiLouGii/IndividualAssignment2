@@ -9,3 +9,9 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 ## 📲Screens Overview
 ## 📱App Screenshots
 ## 🔧Technologies Utilised
+## ⚙Getting Started
+## 🗂Project Structure
+## 📃Licenses
+This project is licensed under the MIT License - see the LICENSE file for details.
+## 👩🏾‍💻Author
+Philippa L. Giibwa
