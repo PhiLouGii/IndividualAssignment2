@@ -71,4 +71,4 @@ lib/
 This project is licensed under the __African Leadership University__ License - see the LICENSE file for details.
 ## 👩🏾‍💻Author
 Philippa L. Giibwa.
-You have questions or suggestions? Reach me at (mailto:p.giibwa@alustudent.com)
+You have questions or suggestions? Reach me at (p.giibwa@alustudent.com)
