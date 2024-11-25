@@ -23,6 +23,8 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 
 
 ## 🔧Technologies Utilised
+* __Framework:__ Flutter
+* __API:__ TMDB API
 ## ⚙Getting Started
 ## 🗂Project Structure
 ## 📃Licenses
