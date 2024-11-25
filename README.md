@@ -26,6 +26,12 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 * __Framework:__ Flutter
 * __API:__ TMDB API
 ## ⚙Getting Started
+__Follow these steps to set up the app on your local machine__
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+2. ```bash
+   cd prism
 ## 🗂Project Structure
 ## 📃Licenses
 This project is licensed under the MIT License - see the LICENSE file for details.
