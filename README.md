@@ -30,9 +30,26 @@ __Follow these steps to set up the app on your local machine__
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-2. ```bash
+2. Navigate to the project directory:
+   ```bash
    cd prism
+3. Install Dependencies:
+   ```bash 
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
 ## 🗂Project Structure
+
+```plaintext
+lib/
+├── api/       # API logic
+├── models/           # Data models
+├── screens/            # App screens
+├── widgets/         # Reusable widgets
+├── constants/            # Constants used throughout the app
+└── main.dart         # App entry point
+```
 ## 📃Licenses
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## 👩🏾‍💻Author
