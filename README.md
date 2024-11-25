@@ -7,6 +7,11 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 
 ## ✨Features
 ## 📲Screens Overview
+* __Loading Screen:__ Beautiful loading screen that has the app's name and logo on display.
+* __Movies Screen:__ Displays a screen of Trending Movies, Top Rated Movies and Upcoming Movies. Users get to swipe through whichever section to see a movie.
+* __Series Screen:__ Displays a screen of Popular Series, Top Rated Series and series that are airing on the current day. Users also get to swipe through the carousels to view what series are trending on air.
+* __Details Screen:__ This screen displays brief information about the selected movie or series. It shows the synopsis, the release/air date and the rating.
+* __Search Screen__ This screen contains a search bar that allows users to search for their desired movies or series and it will instantly display results based of the titles. The user can then press on the selected movie or series to retrieve a summary of it. 
 ## 📱App Screenshots
 ![loading screen](https://github.com/user-attachments/assets/44df4751-141c-4a3a-8b2e-229e20e58b27)
 ![movie detail screen](https://github.com/user-attachments/assets/845b9007-6c16-424f-b781-f190eab16c30)
