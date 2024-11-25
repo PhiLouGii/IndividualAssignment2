@@ -6,6 +6,12 @@
 This app, developed with Flutter, uses the TMDB API to offer users an easy way to search for and get recommendations on movies and TV shows, helping you find your next favorite entertainment.
 
 ## ✨Features
+* Clean and modern UI design
+* User-friendly and easy to utilise
+* Advanced search feature for movies and tv series
+* Display of different tv series and movies (trending, top rated, airing today, popular)
+* Detailed information about each selected movie or series.
+* Integration with TMDB Api
 ## 📲Screens Overview
 * __Loading Screen:__ Beautiful loading screen that has the app's name and logo on display.
 * __Movies Screen:__ Displays a screen of Trending Movies, Top Rated Movies and Upcoming Movies. Users get to swipe through whichever section to see a movie.
@@ -24,7 +30,9 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 
 ## 🔧Technologies Utilised
 * __Framework:__ Flutter
-* __API:__ TMDB API
+* __API:__ TMDB API to fetch movies and tv series data
+* __http:__ for API communication
+Refer to the pubspec.yaml file for the full list of dependencies
 ## ⚙Getting Started
 __Follow these steps to set up the app on your local machine__
 1. Clone the repository:
@@ -50,7 +58,17 @@ lib/
 ├── constants/            # Constants used throughout the app
 └── main.dart         # App entry point
 ```
+## ⌛ Future Improvements
+* Add user and profiles so that the app can feel more personalised.
+* Include a more detailed and thorough search such as breaking it down into categories
+## 🤝🏾 Contributing
+1. Fork the repository
+2. Creature your feature branch
+3. Commit your changes
+4. Push to the created branch
+5. Open a Pull Request
 ## 📃Licenses
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the __African Leadership University__ License - see the LICENSE file for details.
 ## 👩🏾‍💻Author
-Philippa L. Giibwa
+Philippa L. Giibwa.
+You have questions or suggestions? Reach me at (mailto:p.giibwa@alustudent.com)
