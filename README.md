@@ -43,10 +43,10 @@ __Follow these steps to set up the app on your local machine__
 
 ```plaintext
 lib/
-├── api/       # API logic
+├── api/              # API logic
 ├── models/           # Data models
-├── screens/            # App screens
-├── widgets/         # Reusable widgets
+├── screens/          # App screens
+├── widgets/          # Reusable widgets
 ├── constants/            # Constants used throughout the app
 └── main.dart         # App entry point
 ```
