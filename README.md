@@ -30,9 +30,16 @@ This app, developed with Flutter, uses the TMDB API to offer users an easy way t
 
 ## 🔧Technologies Utilised
 * __Framework:__ Flutter
-* __API:__ TMDB API to fetch movies and tv series data
-* __http:__ for API communication
-Refer to the pubspec.yaml file for the full list of dependencies
+* __API:__ TMDB API to fetch movies and tv series data.
+* __http:__ for API communication.
+Refer to the pubspec.yaml file for the full list of dependencies.
+## 🔑 API
+*TMDB: The Movie Database was used in my app to provide access to a rich database of movies, tv series, and associated metadata. 
+The purpose of using TMDB API for my app was:
+- It offers comprehensive media databse
+- Dynamic and up-to-date content.
+- Rich Search Functionality
+- Global Reach
 ## ⚙Getting Started
 __Follow these steps to set up the app on your local machine__
 1. Clone the repository:
@@ -60,7 +67,11 @@ lib/
 ```
 ## ⌛ Future Improvements
 * Add user and profiles so that the app can feel more personalised.
-* Include a more detailed and thorough search such as breaking it down into categories
+* Include a more detailed and thorough search such as breaking it down into categories.
+* Create landscape orientation for user preferences as well as light mode.
+## ⁉ Challenges
+* Error with loading the images for the movies/series: realised I had to include the image path within my work.
+* Creating the layout so that images and content was not overlapping each other: went back to the drawing board on the basics of widgets, padding and layout.
 ## 🤝🏾 Contributing
 1. Fork the repository
 2. Creature your feature branch
